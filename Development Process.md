@@ -1,4 +1,4 @@
 # Nov 16, 2024 - Starting Documentation
-I statred documenting the process of creating this math solver.  
+I started documenting the process of creating this math solver.  
 What I have done so far? 
-- seperated the development of the core LLM developmnet in another repositery  - currently its private
+- separated the development of the core LLM in another repository  - currently its private
